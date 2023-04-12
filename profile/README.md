@@ -4,6 +4,17 @@
 
 ### 🔗 **[배포물 바로가기](https://ticketaka.shop)**
 
+<br>
+
+**🗂 GitHub Repository**
+- 👨‍👩‍👧‍👦 [Backend-Member](https://github.com/Project-Ticketaka/Backend-Member)
+
+- 🎫 [Backend-Reservation](https://github.com/Project-Ticketaka/Backend-Reservation)
+
+- 🎬 [Backend-Performance](https://github.com/Project-Ticketaka/Backend-Performance)
+
+- 🖼 [Frontend](https://github.com/Project-Ticketaka/Frontend)
+
 <br/>
 
 **목차**
@@ -243,10 +254,4 @@ MSA를 활용한 공연 예매 시스템 구축 프로젝트
 
 # <span id="retrospective">💬 회고</span>
 
-- 김석주:
-
-- 서동주:
-
-- 노희재:
-
-- 이규빈:
+![retro](https://user-images.githubusercontent.com/80504636/231395128-b7be313c-3b6d-406d-a093-829fdcc75be0.png)
