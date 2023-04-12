@@ -36,20 +36,20 @@ MSA를 활용한 공연 예매 시스템 구축 프로젝트
 # <span id="stack">🚀 기술 스택</span>
 
 | Java | SpringBoot | Python |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | <img width="50" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231357444-f19f60b4-b037-4243-9fd0-7335f805e1ab.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356152-2eb8bc40-a505-41db-8b48-34cb08307872.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356153-9515afbe-5f22-4639-98ee-d60992e5627c.png"> | 
 
 | TypeScript | React | Node |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | <img width="50" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356155-820c42ce-6b3e-483f-9a81-53a534441fc1.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356159-a1ed8d6a-1945-4c86-8a82-41295fad3d40.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356163-4ab93b84-6ca2-4872-a068-3d6b1d89d7e8.png"> |
 
 
 | MariaDB | Redis | RabbitMQ |
-| --- | --- | --- | 
+| :---: | :---: | :---: | 
 | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356164-ed120ca3-c933-41c3-a9a8-bb8513a343d3.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231358877-6a4ccb13-21d4-4567-a493-cbde6226cd0e.png"> | <img width="50" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356154-4dd57ef2-a2e8-467d-a9ec-dda5860ebbfb.png"> |
 
 | Docker | Kubernetes | istio | AWS | 
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356165-0f68a283-1f64-433b-939e-d4e582530535.png">  | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356166-2fd54dfa-b3c7-42b3-97f3-955a27b5e550.png"> | <img width="40" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356168-0bfec787-354d-4e22-bcd4-90ff9fde5215.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231358883-af99f506-36b0-4912-961c-7f7d5bcc1e12.png">
 
 
