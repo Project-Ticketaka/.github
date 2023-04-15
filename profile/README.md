@@ -119,7 +119,7 @@ MSA를 활용한 공연 예매 시스템 구축 프로젝트
 
 <br>
 
-- ### 📤 Engress
+- ### 📤 Egress
     
     ![egress](https://user-images.githubusercontent.com/80504636/231369912-74ea14b0-2cec-49fd-842c-5311ef0dfcc1.png)
 
