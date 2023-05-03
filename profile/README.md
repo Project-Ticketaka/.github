@@ -2,7 +2,7 @@
 
 ![Ticketaka](https://user-images.githubusercontent.com/80504636/231347927-9bbd712f-5a26-4619-9913-f871e4cde610.png)
 
-### 🔗 **[배포물 바로가기](https://ticketaka.shop)**
+### 🔗 ~~**[배포물 바로가기](https://ticketaka.shop)**~~
 
 <br>
 
