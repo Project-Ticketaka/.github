@@ -13,6 +13,8 @@
 
 - 🎬 [Backend-Performance](https://github.com/Project-Ticketaka/Backend-Performance)
 
+- 📊 [Data](https://github.com/Project-Ticketaka/Data)
+
 - 🖼 [Frontend](https://github.com/Project-Ticketaka/Frontend)
 
 <br/>
