@@ -163,6 +163,9 @@ MSA를 활용한 공연 예매 시스템 구축 프로젝트
 - ### 👀 모니터링
     ![monitoring](https://user-images.githubusercontent.com/80504636/231352003-09bb764f-d47b-4315-96e4-f117d6ef40d6.png)
 
+    ![kiali](https://github.com/Project-Ticketaka/Frontend/assets/80504636/2d3d17ab-8bcf-4111-a9c3-082e85f8088d) |![grafana1](https://github.com/Project-Ticketaka/Frontend/assets/80504636/60e7f0c7-a9ee-43ca-8c48-990225181258) |![grafana2](https://github.com/Project-Ticketaka/Frontend/assets/80504636/31f109e2-830e-4bba-b04a-451c53d728f2)
+    --- | --- | --- |
+
 <br>
 
 ## 기능 3 ) CICD
