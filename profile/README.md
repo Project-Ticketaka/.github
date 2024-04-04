@@ -259,4 +259,4 @@ MSA를 활용한 공연 예매 시스템 구축 프로젝트
 
 # <span id="retrospective">💬 회고</span>
 
-![retro](https://user-images.githubusercontent.com/80504636/231395128-b7be313c-3b6d-406d-a093-829fdcc75be0.png)
+<!-- ![retro](https://user-images.githubusercontent.com/80504636/231395128-b7be313c-3b6d-406d-a093-829fdcc75be0.png) -->
